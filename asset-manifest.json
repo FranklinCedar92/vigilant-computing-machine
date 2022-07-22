@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dev-port/static/css/main.e6c13ad2.css",
+    "main.js": "/dev-port/static/js/main.fd357d87.js",
+    "static/js/787.e18f6452.chunk.js": "/dev-port/static/js/787.e18f6452.chunk.js",
+    "static/media/Intro.jpg": "/dev-port/static/media/Intro.42c2ee5023c03201c0ad.jpg",
+    "static/media/RunBuddy.jpg": "/dev-port/static/media/RunBuddy.0b3ef96ab454daf9b02a.jpg",
+    "static/media/OhSnap.png": "/dev-port/static/media/OhSnap.f8bfba22c6d1791fbd25.png",
+    "static/media/Lexiconne.png": "/dev-port/static/media/Lexiconne.2afb44fe518c830e14d2.png",
+    "static/media/BarterUp.png": "/dev-port/static/media/BarterUp.b428803e60ea5be91b51.png",
+    "static/media/HyperSthetic.png": "/dev-port/static/media/HyperSthetic.a1e28b40b72eb77f94a5.png",
+    "static/media/EmpyTracky.png": "/dev-port/static/media/EmpyTracky.1e628768d0456d8b5209.png",
+    "static/media/resume.png": "/dev-port/static/media/resume.004d00496ff09958c82f.png",
+    "static/media/Notey_McTaker.png": "/dev-port/static/media/Notey_McTaker.81560d3a91c81928e76f.png",
+    "index.html": "/dev-port/index.html",
+    "main.e6c13ad2.css.map": "/dev-port/static/css/main.e6c13ad2.css.map",
+    "main.fd357d87.js.map": "/dev-port/static/js/main.fd357d87.js.map",
+    "787.e18f6452.chunk.js.map": "/dev-port/static/js/787.e18f6452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd357d87.js"
+  ]
+}
